@@ -7,6 +7,7 @@ connectivity between them using the ping command.
 
 ## Environment
 Hypervisor: VirtualBox
+
 Virtual machines:
   - Windows 10 Pro
   - Ubuntu 24.04
