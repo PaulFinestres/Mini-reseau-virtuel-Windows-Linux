@@ -32,7 +32,11 @@ Connectivity between the two machines was verified using the ping command
 from Windows to Ubuntu and from Ubuntu to Windows.
 
 ## Screenshots
+### VirtualBox network adapter
 ![VirtualBox network](screenshots/network-adapter-windows-linux.png)
+### Ubuntu Ip config
 ![Ubuntu Ip](screenshots/ubuntu-ip.png)
+### Windows Ip config 
 ![Windows Ip](screenshots/windows-ip.png)
+### ping Windows to Ubuntu 
 ![ping ubuntu windows](screenshots/ping-ubuntu-to-windows.png)
