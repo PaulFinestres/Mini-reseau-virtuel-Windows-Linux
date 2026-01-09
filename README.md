@@ -33,3 +33,6 @@ from Windows to Ubuntu and from Ubuntu to Windows.
 
 ## Screenshots
 ![VirtualBox network](screenshots/network-adapter-windows-linux.png)
+![Ubuntu Ip](screenshots/ubuntu-ip.png)
+![Windows Ip](screenshots/windows-ip.png)
+![ping ubuntu windows](screenshots/ping-ubuntu-to-windows.png)
