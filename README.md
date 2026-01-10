@@ -11,6 +11,7 @@ Hypervisor: VirtualBox
 Virtual machines:
   - Windows 10 Pro
   - Ubuntu 24.04
+
 Network type: Internal Network
 
 ## Network Configuration
